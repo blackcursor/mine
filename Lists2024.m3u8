@@ -1,0 +1,15 @@
+#EXTM3U 
+#EXTINF:-1,--- SAMSUNG LIST ---
+https://i.mjh.nz/SamsungTVPlus/all.m3u8 
+#EXTINF:-1,--- PBS LIST ---
+https://i.mjh.nz/PBS/all.m3u8
+#EXTINF:-1,--- PLEX LIST ---
+https://i.mjh.nz/Plex/all.m3u8
+#EXTINF:-1,--- PLUTO LIST ---
+https://i.mjh.nz/PlutoTV/all.m3u8
+#EXTINF:-1,--- GITHUB LIST ---
+https://iptv-org.github.io/iptv/index.nsfw.m3u
+#EXTINF:-1,--- STIRR LIST ---
+https://i.mjh.nz/Stirr/all.m3u8
+#EXTINF:-1,--- NZAU LIST ---
+https://i.mjh.nz/nzau/kodi-tv.m3u8
